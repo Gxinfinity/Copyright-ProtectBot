@@ -19,7 +19,7 @@ API_ID = 24753274
 API_HASH = "625668050f7e193a994e2f5ddc4aafe5"
 BOT_TOKEN = "7260803887:AAEukoPDVU0bUCMkr9bCYxtmkIBMPdkVxuw"
 DEVS = [7290350162]
-BOT_USERNAME = "BOT" # change your bot username without @
+BOT_USERNAME = "InfinityCopyright_protector_bot" # change your bot username without @
 
 ALL_GROUPS = []
 TOTAL_USERS = []
